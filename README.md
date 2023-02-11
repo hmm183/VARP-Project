@@ -1,5 +1,6 @@
 # VARP-Project
-Hotel management software based on python in a local hosted environment
+A Hotel management software based on python in a local hosted environment under
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
